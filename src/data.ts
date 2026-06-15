@@ -53,29 +53,29 @@ export const FEATURED_PROJECTS: Project[] = [
       "Frontend Engineering",
     ],
     year: "2023",
-    image: "/src/assets/images/kinesyms.png",
+    image: "/assets/images/kinesyms.png",
     link: "#",
     gallery: [
       {
-        url: "/src/assets/images/kinestart.png",
+        url: "/assets/images/kinestart.png",
         title: "Get started",
         description:
           "The project includes a creative community section that enables users to explore, download, and use templates for various kinematic systems. Each template comes with step-by-step assembly instructions to support easy understanding and practical implementation. In addition, users are encouraged to design their own custom kinematic solutions and share them with the community. This creates an open and collaborative environment where knowledge, ideas, and technical approaches can be exchanged and further developed.",
       },
       {
-        url: "/src/assets/images/kinedetail.png",
+        url: "/assets/images/kinedetail.png",
         title: "Instructions for Assembly and Production",
         description:
           "Once a user selects a system, they receive a step-by-step assembly guide along with all required components. Depending on the application, parts are either provided as links to online shops or as downloadable files for self-production. Connection elements are available as 3D-printable files, while the system geometry is provided as DXF files for laser cutting. This enables a seamless transition from digital design to physical fabrication.",
       },
       {
-        url: "/src/assets/images/kineedit.png",
+        url: "/assets/images/kineedit.png",
         title: "Design Your Own Systems",
         description:
           "The design space also allows users to create their own custom systems, giving full freedom to explore and develop their creativity. It enables rapid prototyping of ideas and supports quick testing and iteration in everyday contexts. This makes it easy to turn concepts into functional prototypes efficiently and intuitively.",
       },
       {
-        url: "/src/assets/images/stab.png",
+        url: "/assets/images/stab.png",
         title: "From Digital File to Physical Part",
         description:
           "The generated components can either be outsourced to external manufacturing services or produced in-house using a 3D printer. This ensures high-quality results while maintaining flexibility in production. The provided files are optimized for accurate fabrication, allowing reliable and precise assembly of all parts.",
@@ -98,17 +98,17 @@ export const FEATURED_PROJECTS: Project[] = [
       "Quality Assurance",
     ],
     year: "2023",
-    image: "/src/assets/images/zeiss.png",
+    image: "/assets/images/zeissnew.png",
     link: "#",
     gallery: [
       {
-        url: "/src/assets/images/Auftrag.png",
+        url: "/assets/images/Auftrag.png",
         title: "Job Overview",
         description:
           "The job overview provides a centralized view of all active and upcoming measurement tasks. It helps users quickly understand priorities, deadlines, and current processing status. This function exists to improve transparency and reduce coordination effort, ensuring that operators can manage workloads efficiently and make informed decisions at a glance.",
       },
       {
-        url: "/src/assets/images/Warteschlange.png",
+        url: "/assets/images/Warteschlange.png",
         title: "Queue Management",
         description:
           "The queue management organizes and prioritizes measurement jobs in a structured workflow. It allows tasks to be dynamically reordered based on urgency, availability, or machine status. This function exists to optimize resource utilization and minimize idle time in the measurement lab, ensuring a smooth and efficient processing flow.",
@@ -130,29 +130,29 @@ export const FEATURED_PROJECTS: Project[] = [
       "Sustainability",
     ],
     year: "2025",
-    image: "/src/assets/images/mockup.png",
+    image: "/assets/images/mockup.png",
     link: "#",
     gallery: [
       {
-        url: "/src/assets/images/textilhalde.png",
+        url: "/assets/images/textilhalde.png",
         title: "Fast Fashion & Its Environmental Impact",
         description:
           "Fast fashion has become a major global problem, as it promotes overproduction and overconsumption of clothing at extremely low prices. This system has a significant negative impact on the environment, including high water usage, pollution from textile dyeing, and large amounts of clothing waste ending up in landfills. In addition, it is often very difficult to trace where garments actually come from and under what conditions they are produced. The lack of transparency in global supply chains means that workers’ rights, safety standards, and fair wages are not always guaranteed. As a result, consumers rarely have a clear understanding of the true cost behind their clothes, both environmentally and ethically.",
       },
       {
-        url: "/src/assets/images/Materialjeans.png",
+        url: "/assets/images/Materialjeans.png",
         title: "Jeans Popular but Environmentally Challenging",
         description:
           "Jeans are one of the most popular clothing items worldwide, appreciated for their durability and timeless style. However, their production has a significant environmental impact, particularly due to high water consumption, chemical treatments, and energy-intensive manufacturing processes. At the same time, they offer strong potential for more sustainable alternatives when made from responsibly sourced or organic cotton and integrated into more circular production systems. With improved materials and longer product lifecycles, jeans can become a more environmentally friendly garment while maintaining their global popularity.",
       },
       {
-        url: "/src/assets/images/flowjeans.png",
+        url: "/assets/images/flowjeans.png",
         title: "AI Clothing Registration",
         description:
           "Users can register their clothing items directly in the app with the support of AI. By uploading basic information and images, the system automatically identifies the garment and estimates its value, similar to traditional resale platforms. However, instead of manual input and fixed rules, the process is enhanced by AI assistance, making it faster, more accurate, and more user-friendly while improving consistency in valuation across the platform.",
       },
       {
-        url: "/src/assets/images/rejeans.png",
+        url: "/assets/images/rejeans.png",
         title: "Impact Insights",
         description:
           "The digital product passport provides clear insights into the environmental and lifecycle impact of each garment, including information such as origin, water consumption, material composition, and overall ecological footprint. By making these factors visible, users gain a better understanding of the true impact behind their clothing choices. With the planned EU regulation making digital product passports mandatory by 2027, such transparency becomes an essential part of future fashion systems, supporting more responsible consumption and sustainable decision-making.",
@@ -171,7 +171,7 @@ export const OTHER_PROJECTS: Project[] = [
       "SheepTag is a modular livestock protection system that combines technology and practical approaches to help sheep farmers protect their flocks. It was developed in response to growing wolf populations and is based on user research and expert interviews with shepherds, hunters, and conservation groups.\n\nThe system integrates wearables, camera technology, and a mobile app into one solution. Sensors track heart rate, GPS, and environmental data to detect stress and potential threats, while cameras verify events and the app displays real-time data, alerts, and herd movements.",
     tags: ["IoT Systems", "UX/UI Design", "Mobile Design", "Arduino"],
     year: "2024",
-    image: "/src/assets/images/sheep.png",
+    image: "/assets/images/sheep.png",
     link: "#",
   },
   {
@@ -188,7 +188,7 @@ export const OTHER_PROJECTS: Project[] = [
       "Human-Centered Design",
     ],
     year: "2025",
-    image: "/src/assets/images/lumifront.png",
+    image: "/assets/images/lumifront.png",
     link: "#",
     timeline: "5 months",
   },
@@ -210,7 +210,7 @@ export const OTHER_PROJECTS: Project[] = [
       "Phobia Treatment",
     ],
     year: "2024",
-    image: "/src/assets/images/face.png",
+    image: "/assets/images//face.png",
     link: "#",
     timeline: "4 months",
   },
@@ -229,7 +229,7 @@ export const OTHER_PROJECTS: Project[] = [
       "Environmental Sensors",
     ],
     year: "2022",
-    image: "/src/assets/images/sari.png",
+    image: "/assets/images//sari.png",
     link: "#",
     timeline: "3 months",
   },
