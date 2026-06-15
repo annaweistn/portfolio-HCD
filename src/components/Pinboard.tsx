@@ -40,7 +40,7 @@ const DEFAULT_PINS: PinItem[] = [
     location: "Hochschule Aalen",
     caption:
       "I'm hosting an interactive workshop on designing effective learning environments using the LEGO® Serious Play® Method. Looking forward to exchanging ideas and exploring creative approaches to learning.",
-    image: "/src/assets/images/workshop.png",
+    image: "/assets/images/workshop.png",
     likes: 42,
     tags: [
       "#Workshop",
@@ -58,7 +58,7 @@ const DEFAULT_PINS: PinItem[] = [
     location: "Le Méridien Stuttgart",
     caption:
       "I participated in the International Sustainability Day as part of my bachelor’s thesis work, where I conducted interviews on digital product passports for textiles, connected with new people in the field, and pitched my idea.",
-    image: "/src/assets/images/meredien.png",
+    image: "/assets/images/meredien.png",
     likes: 56,
     tags: [
       "#Sustainability",
@@ -75,7 +75,7 @@ const DEFAULT_PINS: PinItem[] = [
     location: "Aalen, DE",
     caption:
       'Together with Anastasia Lorenz, I won 1st place in the "Local Mathador" category for our concept to modernize and improve hospital emergency call systems, aiming to increase efficiency and patient safety.',
-    image: "/src/assets/images/pushself.jpg",
+    image: "/assets/images/pushself.jpg",
     likes: 29,
     tags: [
       "#Award",
@@ -96,7 +96,7 @@ const DEFAULT_PINS: PinItem[] = [
     location: "Aalen, DE",
     caption:
       "We worked in teams on a case study together with Eric Brabänder, conducting market research, user interviews, and developing MVPs and go-to-market strategies, which we then presented.",
-    image: "/src/assets/images/casestudy.jpg",
+    image: "/assets/images/casestudy.jpg",
     likes: 31,
     tags: [
       "#ProductManagement",
@@ -115,7 +115,7 @@ const DEFAULT_PINS: PinItem[] = [
     location: "Hochschule Aalen",
     caption:
       "Looking forward to new challenges, inspiring discussions, and learning alongside such a great group of people. Here's our cohort photo from the start of this exciting chapter.",
-    image: "/src/assets/images/master.png",
+    image: "/assets/images/master.png",
     likes: 31,
     tags: [
       "#MastersDegree",
@@ -133,7 +133,7 @@ const DEFAULT_PINS: PinItem[] = [
     location: "HfG Schwäbisch Gmünd",
     caption:
       "I have successfully completed my Bachelor’s thesis, marking the end of a wonderful and inspiring time at the Hochschule für Gestaltung Schwäbisch Gmünd in the Internet of Things program. I am grateful for the experiences, challenges, and growth throughout my studies, and I look back on this chapter with great appreciation as I move on to the next stage of my journey.",
-    image: "/src/assets/images/studies.png",
+    image: "/assets/images/studies.png",
     likes: 31,
     tags: ["#Bachelor", "#NewChapter", "#IoT", "#Teamwork"],
   },

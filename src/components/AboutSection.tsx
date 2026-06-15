@@ -67,7 +67,7 @@ export default function AboutSection() {
 
               <div className="relative w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden border-2 border-stone-800 hover:border-[#e4b76d] transition-colors duration-500 shadow-xl">
                 <img
-                  src="/src/assets/images/anni.png"
+                  src="/assets/images/anni.png"
                   alt="Anna Weinstein Avatar"
                   className="w-full h-full object-cover scale-105 hover:scale-115 transition-transform duration-700"
                   referrerPolicy="no-referrer"

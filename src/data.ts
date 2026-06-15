@@ -229,7 +229,7 @@ export const OTHER_PROJECTS: Project[] = [
       "Environmental Sensors",
     ],
     year: "2022",
-    image: "/assets/images//sari.png",
+    image: "/assets/images/sari.png",
     link: "#",
     timeline: "3 months",
   },
